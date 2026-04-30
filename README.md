@@ -8,7 +8,7 @@ https://jaaid-dev.netlify.app/
 
 ## Built With
 - React + Vite
-- Tailwind CSS
+- Tailwind CSS   
 - Framer Motion
 - React Icons
 
