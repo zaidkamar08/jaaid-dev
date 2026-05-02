@@ -6,7 +6,7 @@ Vite, Tailwind CSS, and Framer Motion.
 ## Live Demo
 https://jaaid-dev.netlify.app/
 
-## Built With
+## Built With  
 - React + Vite
 - Tailwind CSS   
 - Framer Motion
